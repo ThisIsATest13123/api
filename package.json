@@ -1,5 +1,5 @@
 {
-  "name": "RunnableMultiTierBackEnd",
+  "name": "RunnableMultiTierBasckEnd",
   "version": "0.1.0",
   "description": "Runnable Demo Multi Tier Back End",
   "main": "server/app.js",
