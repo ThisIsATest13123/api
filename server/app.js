@@ -1,5 +1,7 @@
 (function() {
     'use strict';
+    
+    var host = "127.0.0.1";
 
     var express = require('express');
     var path = require('path');
